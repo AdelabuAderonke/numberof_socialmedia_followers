@@ -1,0 +1,1 @@
+# A basic javascript program to approximate the total number of social media followers of a user to the nearest #number  using either K, M and B as seen on various social media platform especially facebook.
